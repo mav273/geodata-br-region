@@ -1,12 +1,14 @@
 ﻿
 Geodata BR - Brasil
 ===================
-https://geojson.io/
 Este projeto contém arquivos [Geojson](http://geojson.org/) com os perímetros
 dos municípios brasileiros dividido por estado
 
+Projeto Original: https://github.com/tbrugz/geodata-br 
 
 ### Região Norte
+* Norte / Por estado - [geojs-norte-estado-mun.json](geojson/norte/geojs-norte-estado-mun.json)
+* Norte / Por cidade - [geojs-norte-cidade-mun.json](geojson/norte/geojs-norte-cidade-mun.json)
 * AC / Acre - [geojson/geojs-12-mun.json](geojson/geojs-12-mun.json)
 * AM / Amazonas - [geojson/geojs-13-mun.json](geojson/geojs-13-mun.json)
 * AP / Amapá - [geojson/geojs-16-mun.json](geojson/geojs-16-mun.json)
@@ -17,6 +19,8 @@ dos municípios brasileiros dividido por estado
 
 
 ### Região Nordeste
+* Nordeste / Por estado - [geojs-nordeste-estado-mun.json](geojson/nordeste/geojs-nordeste-estado-mun.json)
+* Nordeste / Por cidade - [geojs-nordeste-cidade-mun.json](geojson/nordeste/geojs-nordeste-cidade-mun.json)
 * AL / Alagoas - [geojson/geojs-27-mun.json](geojson/geojs-27-mun.json)
 * BA / Bahia - [geojson/geojs-29-mun.json](geojson/geojs-29-mun.json)
 * CE / Ceará - [geojson/geojs-23-mun.json](geojson/geojs-23-mun.json)
@@ -29,6 +33,8 @@ dos municípios brasileiros dividido por estado
 
 
 ### Região Sudeste
+* Sudeste / Por estado - [geojs-sudeste-estado-mun.json](geojson/sudeste/geojs-sudeste-estado-mun.json)
+* Sudeste / Por cidade - [geojs-sudeste-cidade-mun.json](geojson/sudeste/geojs-sudeste-cidade-mun.json)
 * ES / Espírito Santo - [geojson/geojs-32-mun.json](geojson/geojs-32-mun.json)
 * MG / Minas Gerais - [geojson/geojs-31-mun.json](geojson/geojs-31-mun.json)
 * RJ / Rio de Janeiro - [geojson/geojs-33-mun.json](geojson/geojs-33-mun.json)
@@ -36,12 +42,16 @@ dos municípios brasileiros dividido por estado
 
 
 ### Região Sul
+* Sul / Por estado - [geojs-sul-estado-mun.json](geojson/sul/geojs-sul-estado-mun.json)
+* Sul / Por cidade - [geojs-sul-cidade-mun.json](geojson/sul/geojs-sul-cidade-mun.json)
 * PR / Paraná - [geojson/geojs-41-mun.json](geojson/geojs-41-mun.json)
 * RS / Rio Grande do Sul - [geojson/geojs-43-mun.json](geojson/geojs-43-mun.json)
 * SC / Santa Catarina - [geojson/geojs-42-mun.json](geojson/geojs-42-mun.json)
 
 
 ### Região Centro-Oeste
+* Centro-Oeste / Por estado - [geojs-centrooeste-estado-mun.json](geojson/centro-oeste/geojs-centrooeste-estado-mun.json)
+* Centro-Oeste / Por cidade - [geojs-centrooeste-cidade-mun.json](geojson/centro-oeste/geojs-centrooeste-cidade-mun.json)
 * DF / Distrito Federal - [geojson/geojs-53-mun.json](geojson/geojs-53-mun.json) 
 * GO / Goiás - [geojson/geojs-52-mun.json](geojson/geojs-52-mun.json)
 * MT / Mato Grosso - [geojson/geojs-51-mun.json](geojson/geojs-51-mun.json)
